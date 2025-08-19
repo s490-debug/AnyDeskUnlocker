@@ -1,0 +1,10 @@
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\bin\Debug\AnyDeskUnlocker.exe.config
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\bin\Debug\AnyDeskUnlocker.exe
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\bin\Debug\AnyDeskUnlocker.pdb
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\obj\Debug\AnyDeskUnlocker.csproj.AssemblyReference.cache
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\obj\Debug\AnyDeskUnlocker.Properties.Resources.resources
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\obj\Debug\AnyDeskUnlocker.csproj.GenerateResource.cache
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\obj\Debug\AnyDeskUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\obj\Debug\AnyDeskUnlocker.exe
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\obj\Debug\AnyDeskUnlocker.pdb
+C:\Users\loved\source\repos\AnyDeskUnlocker\AnyDeskUnlocker\obj\Debug\AnyDeskUnlocker.Form1.resources
